@@ -1,4 +1,4 @@
-package domain;
+package v1.domain;
 
 public class Bolo {
     private final Fruta fruta;

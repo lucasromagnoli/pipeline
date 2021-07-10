@@ -1,8 +1,8 @@
-package steps;
+package v1.steps;
 
-import domain.Bolo;
-import domain.Cobertura;
-import pipeline.Stage;
+import v1.domain.Bolo;
+import v1.domain.Cobertura;
+import v1.pipeline.Stage;
 
 public class BoloParaCoberturaStage implements Stage<Bolo, Cobertura> {
     @Override

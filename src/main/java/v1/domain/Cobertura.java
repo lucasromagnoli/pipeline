@@ -1,4 +1,4 @@
-package domain;
+package v1.domain;
 
 public class Cobertura {
     private final Bolo bolo;

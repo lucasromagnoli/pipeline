@@ -1,4 +1,4 @@
-package pipeline;
+package v1.pipeline;
 
 public class Pipeline<I, O> {
     private final Stage<I, O> currentStage;

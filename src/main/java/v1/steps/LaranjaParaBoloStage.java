@@ -1,8 +1,8 @@
-package steps;
+package v1.steps;
 
-import domain.Bolo;
-import domain.Laranja;
-import pipeline.Stage;
+import v1.domain.Bolo;
+import v1.domain.Laranja;
+import v1.pipeline.Stage;
 
 public class LaranjaParaBoloStage implements Stage<Laranja, Bolo> {
     @Override

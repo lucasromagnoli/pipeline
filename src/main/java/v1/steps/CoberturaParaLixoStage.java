@@ -1,7 +1,7 @@
-package steps;
+package v1.steps;
 
-import domain.Cobertura;
-import pipeline.Stage;
+import v1.domain.Cobertura;
+import v1.pipeline.Stage;
 
 public class CoberturaParaLixoStage implements Stage<Cobertura, String> {
     @Override

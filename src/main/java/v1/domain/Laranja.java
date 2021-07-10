@@ -1,4 +1,4 @@
-package domain;
+package v1.domain;
 
 public class Laranja implements Fruta {
     @Override
